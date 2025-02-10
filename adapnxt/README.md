@@ -5,7 +5,7 @@ A fully functional Loan & Product Management Dashboard built using React.js. Thi
   Add/Edit/Delete product functionality  
   Dropdown-based sidebar navigation  
   Toggle switch for active/inactive status  
-  Responsive & attractive UI 
+ 
 
 
 
