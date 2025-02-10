@@ -1,8 +1,14 @@
-# React + Vite
+**Loan & Product Management Dashboard** 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional Loan & Product Management Dashboard built using React.js. This dashboard includes: 
+  Dynamic product listing
+  Add/Edit/Delete product functionality  
+  Dropdown-based sidebar navigation  
+  Toggle switch for active/inactive status  
+  Responsive & attractive UI 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![image](https://github.com/user-attachments/assets/600a6a1b-1efa-4d1a-a143-5f2d99bc1965)
+
+**Deployed Link:** :     https://assignment-bpwm.onrender.com/
