@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
-import LeftPart from '../components/Leftpart';
-import RightPart from '../components/Rightpart';
+import LeftPart from '../components/LeftPart';
+import RightPart from '../components/RightPart';
 
 
 function Home() {
